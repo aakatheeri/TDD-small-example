@@ -1,0 +1,17 @@
+{
+  "name": "tdd-hello",
+  "version": "1.0.0",
+  "description": "To practice test driven development approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Ahmed Alkatheeri",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.3"
+  }
+}
